@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Wildan BOT" src="https://img.shields.io/badge/Wildan BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ELAINA BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-Tobz-orange.svg?style=for-the-badge&logo=github"></a>
@@ -17,18 +17,18 @@
 ## Information
 
 - Change ownerNumber in tobz.js to be your number
-ownerNumber = "62812xxxxxx@c.us"
+ownerNumber = "6213xxxxxx@c.us"
 - Change adminNumber in admin.json to be your number
-[] -> ["62812xxxxxx@c.us"]
+[] -> ["62813xxxxxx@c.us"]
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [Telegram](https://t.me/Wildan0414)
-- [Whatsapp](https://wa.me/6281242897136)
-- [BOT WA](wa.me/6282189403925)
-- [GROUP WA](https://chat.whatsapp.com/KVrZW3koRW5Jh3fI7eveFd)
+- [Telegram](https://t.me/tobz2k19)
+- [Whatsapp](https://wa.me/6281311850715)
+- [BOT WA](wa.me/447723992261)
+- [GROUP WA](https://chat.whatsapp.com/InZrGpgBBNB4hnS7Q6sVJG)
 
 ## APIKEY
 Open tobz.js then edit & paste it in YOUR_APIKEY
